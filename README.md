@@ -4,4 +4,4 @@ My name is Lucas Gomes, also known as Gomes or 3GOMESz. I am a programmer born i
 
 <a href='https://patreon.com/3GOMESz'><h5>Patreon <img width="20" height="20" src="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Patreon_icon.svg/revision/latest/top-crop/width/220/height/220?cb=20170227134906"></h5></a>
 
-<a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YYLDN37Q7GUGE&source=url'><h5>Paypal <img width="20" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLWzroaDNPnTa_ZQFhvVT46CUgSzADuu9vCA&usqp=CAU"></h5></a>
+<a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YYLDN37Q7GUGE&source=url'><h5>Paypal Donation <img width="20" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLWzroaDNPnTa_ZQFhvVT46CUgSzADuu9vCA&usqp=CAU"></h5></a>
