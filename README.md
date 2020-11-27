@@ -2,7 +2,7 @@
 
 My name is Lucas Gomes, also known as Gomes or 3GOMESz. I am a programmer born in Brazil 🇧🇷, currently working on some open source projects as a fullstack web developer and software engineer. In addition I also work with game development and in my spare time I make music, animations and art in general. I have the dream of someday being able to live just working with open source favoring the entire development community, helping people with my creations and contributions, as well as creating alternatives for paid products that everyone uses every day. Passionate about Linux, innovations, art and object-oriented programming.
 
-<h3>Donations 💲</h3>
+<h6>Donations $$$$</h6>
 
 Paypal            |  Patreon
 :-------------------------:|:-------------------------:
